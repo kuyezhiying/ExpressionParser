@@ -1,0 +1,12 @@
+body {
+	margin: 10px 20px;
+}
+
+.expr-input {
+	float: left; 
+	width: 30%;
+}
+
+input.invalid-expr, input.invalid-expr:focus {
+    border: 1px solid red;
+}
